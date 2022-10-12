@@ -6,7 +6,7 @@
 
 //Firebase connection data
 #define FIREBASE_HOST "xxxxxxx-xxxxx-xxxxxxxx-xxxx.firebaseio.com" // firebase link
-#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // firebase suth
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // firebase auth
 
 //wifi connection information 
 #define WIFI_SSID "xxxxxxx"
