@@ -5,12 +5,12 @@
 #include <DHT_U.h>
 
 //Firebase connection data
-#define FIREBASE_HOST "nodemcu-8bd8c-default-rtdb.firebaseio.com" // firebase link
-#define FIREBASE_AUTH "gHkRCKjR1zSWhwl40OAqgK6AxXJuHXkj1XXwcPCb" // firebase suth
+#define FIREBASE_HOST "xxxxxxx-xxxxx-xxxxxxxx-xxxx.firebaseio.com" // firebase link
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // firebase suth
 
 //wifi connection information 
-#define WIFI_SSID "Dialog 4G CB3"
-#define WIFI_PASSWORD "BMy7M977"
+#define WIFI_SSID "xxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxx"
 
 //DHT11 sensor initializing ports
 #define DHTTYPE DHT11     
